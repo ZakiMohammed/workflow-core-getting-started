@@ -16,7 +16,7 @@ dotnet add package Microsoft.Extensions.DependencyInjection.Abstractions
 dotnet add package Microsoft.Extensions.Logging
 ```
 
-#### Staring Up
+#### Starting Up
 One have to create the steps first then the workflow and then finally register the workflow to the host on the main file:
 
 1. Create Steps
