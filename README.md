@@ -4,6 +4,8 @@ Check out the CodeOmelet blog post for this project.
 
 Link: https://codeomelet.com/posts/workflow-core-getting-started
 
+---
+
 #### Initial Setup
 
 The WorkflowCore package required .NET Core 2.0 framework.
